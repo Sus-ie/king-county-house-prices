@@ -22,7 +22,6 @@ The dataset contains 21 features, including:
 
 ## Key Results
 - Decision Tree Regression showed the best performance for predicting house prices.
-- The pipeline included custom treatments for Linear, Ridge, and Lasso regressions to fine-tune performance.
 - Predictions for high-value houses (>$650,000) were made using the Decision Tree model.
 
 ## Tools & Technologies
